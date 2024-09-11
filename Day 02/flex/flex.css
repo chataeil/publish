@@ -1,0 +1,20 @@
+.box {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+
+  /* 자기 자식들을 가로 또는 세로로 배치하는 스타일 */
+  display: flex;
+  /* flex가 필수있어야함 */
+  /* column: 세로, row: 가로 */
+  flex-direction: column;
+}
+.one {
+  background-color: green;
+}
+.two {
+  background-color: yellow;
+}
+.three {
+  background-color: red;
+}

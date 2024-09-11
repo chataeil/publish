@@ -1,0 +1,70 @@
+.box {
+  width: 600px;
+  height: 200px;
+  border: 0px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+
+  .flex {
+    background-color: #1abc9c;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #1abc9c;
+  }
+  .flex1 {
+    background-color: #2ecc71;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #2ecc71;
+  }
+  .flex2 {
+    background-color: #3498db;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #3498db;
+  }
+  .flex2 {
+    background-color: #3498db;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #3498db;
+  }
+  .flex3 {
+    background-color: #16a085;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #16a085;
+  }
+  .flex4 {
+    background-color: #27ae60;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #27ae60;
+  }
+  .flex5 {
+    background-color: #2980b9;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #2980b9;
+  }
+  .flex6 {
+    background-color: #f1c40f;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #f1c40f;
+  }
+  .flex7 {
+    background-color: #e67e22;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #e67e22;
+  }
+  .flex8 {
+    background-color: #e74c3c;
+    width: 200px;
+    height: 200px;
+    border: 0px solid #e74c3c;
+  }
+}

@@ -1,0 +1,25 @@
+.box {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  justify-content: space-around;
+  align-items: start;
+}
+.tain {
+  height: 100px;
+  width: 100px;
+  background-color: #1abc9c;
+}
+.tain2 {
+  height: 100px;
+  width: 100px;
+  background-color: #2ecc71;
+}
+.tain3 {
+  height: 100px;
+  width: 100px;
+  background-color: #3498db;
+}

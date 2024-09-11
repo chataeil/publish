@@ -1,0 +1,72 @@
+.house {
+  border: 0px solid black;
+  width: 800px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 10px;
+  .every {
+    border: 0px solid blac;
+    border-radius: 80px;
+    width: 60px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .motel {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 60px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .hotel {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 100px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .fen {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 100px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .pre {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 120px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .camp {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 120px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .home {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 70px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .guest {
+    border: 0px solid black;
+    border-radius: 80px;
+    width: 90px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

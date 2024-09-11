@@ -1,0 +1,17 @@
+button {
+  background-color: #f4f4f4;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 6px;
+  border: 1px solid #f4f4f4;
+  cursor: pointer;
+  /* font-family: "Courier New", Courier, monospace; */
+  /* line-height: 30px; 행간 */
+  /* text-transform: uppercase; 글 모양 바꾸기 */
+  /* word-spacing: 20px; 자간 */
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

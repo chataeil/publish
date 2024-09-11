@@ -1,0 +1,30 @@
+.legeno {
+  border: 1px solid #f4f3f4;
+  width: 300px;
+  height: 100px;
+  background-color: #f4f3f4;
+  justify-content: space-around;
+  align-items: end;
+  gap: 10px;
+}
+.container {
+  border: 1px solid white;
+  width: 290px;
+  height: 90px;
+  background-color: white;
+  align-items: center;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  gap: 10px;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
