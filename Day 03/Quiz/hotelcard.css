@@ -1,0 +1,40 @@
+.box {
+  width: 400px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.card {
+  width: 100px;
+  height: 200px;
+  background-image: url("billa.jpg");
+  background-size: cover;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: start;
+}
+.card2 {
+  width: 100px;
+  height: 50px;
+  background-image: url("church.jpg");
+  background-size: cover;
+}
+.card3 {
+  width: 100px;
+  height: 50px;
+  background-image: url("strange.jpg");
+  background-size: cover;
+}
+.test1 {
+  font-size: 5px;
+  color: white;
+}
+.test2 {
+  font-size: 10px;
+  color: white;
+}
+.test3 {
+  font-size: 5px;
+  color: white;
+}
