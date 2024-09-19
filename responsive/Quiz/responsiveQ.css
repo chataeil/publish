@@ -1,0 +1,38 @@
+.box {
+  display: flex;
+  flex-direction: row;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+@media screen and(max-width: 1024px) {
+  .wrapper {
+    flex-direction: column;
+  }
+}
+@media screen and(max-width: 768px) {
+  .box {
+    flex-direction: column;
+  }
+}

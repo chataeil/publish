@@ -1,0 +1,59 @@
+.second {
+  width: 100vw;
+  padding: 150px 0;
+}
+.centered {
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.contents {
+  width: 20%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+.one {
+  width: 20%;
+  height: 300px;
+  font-size: 50px;
+  color: blue;
+}
+.two {
+  width: 20%;
+  height: 300px;
+}
+.two > img {
+  width: 100%;
+  height: 80%;
+}
+.three {
+  width: 20%;
+  height: 300px;
+}
+.three > img {
+  width: 100%;
+  height: 80%;
+}
+.four {
+  width: 20%;
+  height: 300px;
+}
+.four > img {
+  width: 100%;
+  height: 80%;
+}
+
+@media screen and (max-width: 768px) {
+  .centered {
+    max-width: 600px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .h5 {
+    margin-top: 0%;
+  }
+}
